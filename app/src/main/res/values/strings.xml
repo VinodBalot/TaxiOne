@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TaxiOne</string>
+    <string name="booking_price">Price</string>
+    <string name="booking_history">History</string>
+    <string name="location_label_a">A</string>
+    <string name="location_label_b">B</string>
+    <string name="aqi">aqi</string>
+    <string name="nickname">nickname</string>
+    <string name="booking_error">Error: %1$s</string>
+    <string name="cached_locations_empty">No cached locations yet</string>
+    <string name="location_not_set">Location not set</string>
+    <string name="label_v">V</string>
+</resources>
