@@ -1,4 +1,4 @@
-# TexiOne — AQI Location Booking App
+# TexiOne - AQI Location Booking App
 
 Android take-home assignment. Pick two map locations, see live Air Quality Index, book the A→B pair, view history.
 
